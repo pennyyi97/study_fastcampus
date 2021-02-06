@@ -10,3 +10,8 @@ function hello(name) {
   console.log('Hello' + name + '!');
 }
 hello('penny');
+
+function hello1(name) {
+  console.log(`Hello ${name} !`);
+}
+hello1('penny');
