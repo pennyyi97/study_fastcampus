@@ -1,5 +1,3 @@
-# study_fastcampus
-
 Created with CodeSandbox
 
 ## 패스트 캠퍼스
