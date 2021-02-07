@@ -12,7 +12,8 @@ const captainAmerica = {
 };
 
 function print(hero) {
-  const text = `${hero.alias}(${hero.name}) 역할을 맡은 배우는 "${hero.actor}" 입니다.`;
+  const { alias, name, actor } = hero; //객체 비구조화 할당
+  const text = `${alias} (${name}) 역할을 맡은 배우는 "${actor}" 입니다.`;
   console.log(text);
 }
 
