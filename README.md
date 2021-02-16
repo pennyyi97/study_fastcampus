@@ -28,4 +28,4 @@ JavaScript 심화과정 2
 
 JavaScript 심화과정 3
 <br>
-[HTML과 JS 연동](https://github.com/pennyyi97/study_fastcampus/tree/main/script_class4 '코드 확인')
+[HTML과 JS 연동](https://github.com/pennyyi97/study_fastcampus/tree/main/src '코드 확인')
