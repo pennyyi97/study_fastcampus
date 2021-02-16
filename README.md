@@ -23,3 +23,9 @@ JavaScript 심화과정 1
 JavaScript 심화과정 2
 <br>
 [JS 비동기처리](https://github.com/pennyyi97/study_fastcampus/tree/main/script_class3 '코드 확인')
+
+#### 4. HTML과 JS 연동하기
+
+JavaScript 심화과정 3
+<br>
+[HTML과 JS 연동](https://github.com/pennyyi97/study_fastcampus/tree/main/script_class4 '코드 확인')
