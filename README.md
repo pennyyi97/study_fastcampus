@@ -17,3 +17,9 @@ JavaScript 기초를 다루기 위한 예제 코드
 JavaScript 심화과정 1
 <br>
 [알고있으면 유용한 JS 문법](https://github.com/pennyyi97/study_fastcampus/tree/main/script_class2 '코드 확인')
+
+#### 3. 자바스크립트에서 비동기 처리 다루기
+
+JavaScript 심화과정 2
+<br>
+[JS 비동기처리](https://github.com/pennyyi97/study_fastcampus/tree/main/script_class3 '코드 확인')
